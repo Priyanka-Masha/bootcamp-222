@@ -1,1 +1,5 @@
-# bootcamp-222
+# bootcamp222
+daily_class_code
+Hello 
+
+Good afternoon
