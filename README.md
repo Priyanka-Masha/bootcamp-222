@@ -1,5 +1,3 @@
 # bootcamp222
-daily_class_code
-Hello 
 
-Good afternoon
+These are the basic flask code done with jinja template
